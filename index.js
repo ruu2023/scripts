@@ -26,3 +26,6 @@ function countOccurrences(arr) {
     });
     return result;
 }
+
+
+console.log(countOccurrences(["a","a","a","a","a","a"]))
